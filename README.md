@@ -1,5 +1,5 @@
 <h1 align="center">Hi Stranger👋, I'm Vefa Can Beytorun</h1>
-<h3 align="center">Intern Android developer from Turkcell - Geleceği Yazanlar</h3>
+<h3 align="center">Mobile Developer & Industrial Engineer</h3>
 
 
 I am an ambitious and dedicated Industrial Engineer who is currently studying at Dokuz Eylül
@@ -14,7 +14,7 @@ integrate the two in my career.
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 🔭 I’m currently working on **Turkcell - Geleceği Yazanlar**
+- 🔭 I’m currently working on **Turkcell - Geleceği Yazanlar (Intern Android Developer)**
 
 - 📝 I regularly write articles on [https://medium.com/@vefacanbeytorun](https://medium.com/@vefacanbeytorun)
 
