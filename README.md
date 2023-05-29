@@ -1,6 +1,17 @@
 <h1 align="center">Hi Stranger👋, I'm Vefa Can Beytorun</h1>
 <h3 align="center">Intern Android developer from Turkcell - Geleceği Yazanlar</h3>
 
+
+I am an ambitious and dedicated Industrial Engineer who is currently studying at Dokuz Eylül
+University. I am self-motivated and hardworking.
+In my free time, I constantly strive to improve my skills in the Android field and currently, I am
+participating in "Geleceği Yazanlar" program of Turkcell, to develop my skills in Android and Kotlin.
+My goal is to continue to improve myself in both my field of study and software development, and to
+integrate the two in my career.
+
+
+
+
 - 🌱 I’m currently learning **Kotlin**
 
 - 📝 I regularly write articles on [https://medium.com/@vefacanbeytorun](https://medium.com/@vefacanbeytorun)
