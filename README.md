@@ -14,6 +14,8 @@ integrate the two in my career.
 
 - 🌱 I’m currently learning **Kotlin**
 
+- - 🔭 I’m currently working on **Turkcell - Geleceği Yazanlar**
+
 - 📝 I regularly write articles on [https://medium.com/@vefacanbeytorun](https://medium.com/@vefacanbeytorun)
 
 - 📫 How to reach me **vefa.can.97@gmail.com**
