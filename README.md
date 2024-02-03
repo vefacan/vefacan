@@ -14,7 +14,7 @@ integrate the two in my career.
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 🔭 I’m currently working on **Turkcell - Geleceği Yazanlar (Intern Android Developer)**
+- 🔭 I’m currently working on **Turkcell
 
 - 📝 I regularly write articles on [https://medium.com/@vefacanbeytorun](https://medium.com/@vefacanbeytorun)
 
